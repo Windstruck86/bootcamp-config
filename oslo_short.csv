@@ -1,0 +1,5 @@
+,name,external_id,description,labels,metadata,parent_external_id
+0,Oslo,oslo,"Site in Oslo, Norway",['isa95:site'],"{'site': 'Oslo', 'country': 'Norway', 'size': 'sm', 'src': 'sap'}",
+1,Cold Store,oslo_cold_store,,['isa95:area'],"{'Max temperature': '-25 degrees', 'Max capability': '4000L', 'site': 'Oslo', 'src': 'sap', 'type': 'cold_store'}",oslo
+2,Receiving & Raw Materials,oslo_receiving_and_raw,,['isa95:area'],"{'site': 'Oslo', 'src': 'sap', 'type': 'receiving_&_raw_materials'}",oslo
+3,Liquid Storage,oslo_receiving_and_raw_liquid_storage,,['isa95:storage_zone'],"{'Inventory size': '8000L', 'site': 'Oslo', 'src': 'sap', 'type': 'liquid_storage'}",oslo_receiving_and_raw
